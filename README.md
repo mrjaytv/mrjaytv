@@ -1,36 +1,27 @@
-# Hi, I'm Jay 👋
+### **Workday Product Owner | Workday Consultant | HR Professional** 
 
-### Workday Product Owner | Workday Consultant | HR Professional 
-
-I design, scale, and simplify **Workday ecosystems** that support real business outcomes. My focus is building **clean architecture, reliable integrations, and clear documentation** that HR, IT, Finance and the business can actually use. I love turning complex systems into clear playbooks  
+## 🎯 My Architecture Philosophy
+> *“HR technology should be stable, intentional, and understandable — not mysterious.”*
 
 ## 🧠 What I Do
+- 🏗️ Scalable Workday design. Real business impact.
+- 👀 Focus: building clean architecture, reliable integrations, and documentation teams actually use
+- 🧩 Passion: turning complex systems into clear playbooks 
+- 🌱 Currently learning: Workday Extend, Enterprise HR system architecture, and Advanced Workday Studio patterns
 
-- 🏗️ Architect end-to-end Workday solutions (Core HCM → Integrations → Downstream systems)
-- 🔁 Design & build Workday Integrations (EIB, Core Connectors, Studio foundations)
-- 🧩 Translate business requirements into scalable technical designs
-- 📘 Create playbooks, guides, and system documentation that reduce tech debt
-- 🔍 Assess tenants, identify gaps, and recommend architectural improvements
+## 🚀 What I’m Working On
+- 🔹 Workday Integration portfolio
+- 🔹 Redesigning Global Job Architecture
+- 🔹 Redesigning Security Architecture (Zero Trust)
+- 🔹 HR tech playbooks and guides
 
-## 🛠️ Workday Expertise
-
-**Modules & Functional Areas**
-- Workday Core HCM
-- Recruiting & HCM business processes
-- Security & role-based access
-- Reporting & calculated fields
-
-**Integrations**
-- EIB (Inbound & Outbound)
-- Core Connectors
-- Web Services (REST / SOAP – foundational)
-- Studio (learning & architecture patterns)
-
-**Architecture & Delivery**
-- System landscape design
-- Integration strategy & governance
-- Release management & change impact analysis
+## 🛠️ Skills
+- Workday HCM, Core & Integrations
+- Business Analysis & HR Systems
 - HRIS data integrity & optimization
+- Documentation & Process Design
+- Release management & change impact analysis
 
-## 🤝 Let’s connect!
+## 🤝 Let’s Connect on LinkedIn
 - 💼 LinkedIn: https://www.linkedin.com/in/jtvieira/
+- ⭐ Feel free to explore, fork, or reference my work
