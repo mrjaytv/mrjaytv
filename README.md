@@ -1,6 +1,6 @@
 # Hi, I'm Jay 👋
 
-### Workday Techincal Product Owner | Workday Consultant | Workday Architect 
+### Workday Product Owner | Workday Consultant | HR Professional 
 
 I design, scale, and simplify **Workday ecosystems** that support real business outcomes. My focus is building **clean architecture, reliable integrations, and clear documentation** that HR, IT, Finance and the business can actually use. I love turning complex systems into clear playbooks  
 
