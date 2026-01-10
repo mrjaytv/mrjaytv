@@ -1,4 +1,4 @@
-### **Workday Product Owner | Workday Architect | Workday Consultant | HR Professional | Workday Enthusiast|** 
+### **Workday Product Owner | Workday Architect | Workday Consultant | HR Professional | Workday Enthusiast** 
 
 ## 🎯 My Architecture Philosophy
 > *“HR technology should be stable, intentional, and understandable — not mysterious.”*
